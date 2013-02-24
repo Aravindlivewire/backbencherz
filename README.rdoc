@@ -1,3 +1,3 @@
-This is rails application . 
+This is a rails application . 
 
 A hobby project
